@@ -20,7 +20,7 @@ spec:
             - containerPort: 3000
           env:
             - name: REACT_APP_API_URL
-              value: "http://backend-service:5000"
+              value: "http://a9b1171b1d7f845c39a0e5700c951f71-967637115.ap-south-1.elb.amazonaws.com:80"
 ---
 apiVersion: v1
 kind: Service
