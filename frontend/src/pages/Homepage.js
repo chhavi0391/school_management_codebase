@@ -19,7 +19,7 @@ const Homepage = () => {
                             <br />
                             ourschool 
                             <br />
-                            <span style={{ fontSize: "30px" }}>a School Management System v1</span>
+                            <span style={{ fontSize: "30px" }}>a School Management System </span>
                         </StyledTitle>
                         <StyledText>
                             Streamline school management, class organization, and add students and faculty.
