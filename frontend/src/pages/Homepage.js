@@ -17,7 +17,7 @@ const Homepage = () => {
                         <StyledTitle>
                             <span style={{ fontSize: "30px" }}>Welcome to</span>
                             <br />
-                            ourschool 
+                            Chitkara 
                             <br />
                             <span style={{ fontSize: "30px" }}>a School Management System </span>
                         </StyledTitle>
